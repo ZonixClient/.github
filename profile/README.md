@@ -1,4 +1,4 @@
-![s](https://github.com/ZonixClient/.github/blob/main/profile/zonixsmol.png)
+![s](https://github.com/ZonixClient/.github/blob/main/profile/zonixz.png)
 
 ##            						 Zonix Client
 
