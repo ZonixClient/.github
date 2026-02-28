@@ -1,4 +1,4 @@
-![s](<img width="1000" height="1000" alt="zonixsmol" src="https://github.com/user-attachments/assets/ff00d008-5746-4af5-ad25-144b8be5cd72" />)
+![s](https://github.com/ZonixClient/.github/blob/main/profile/zonixsmol.png)
 
 ##            						 Zonix Client
 
